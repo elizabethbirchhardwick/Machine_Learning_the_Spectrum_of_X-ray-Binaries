@@ -22,12 +22,12 @@ We evaluate three machine learning regressors—Polynomial Regression, K-Nearest
 
 ```
 📄 main.ipynb                         # Main Jupyter Notebook
-📄 points_results_cycle3.csv       # Data used to train model (Cycle 3)
-📄 points_results_current_cycle.csv       # Data used to train model (Cycle 25)
-📄 train3.csv       # Train data for train-test split used in article (Cycle 3)
-📄 test3.csv       # Test data for train-test split used in article (Cycle 3)
-📄 train25.csv       # Train data for train-test split used in article (Cycle 25)
-📄 test25.csv       # Test data for train-test split used in article (Cycle 25)
+📄 points_results_cycle3.csv          # Data used to train model (Cycle 3)
+📄 points_results_current_cycle.csv   # Data used to train model (Cycle 25)
+📄 train3.csv                         # Train data for train-test split used in article (Cycle 3)
+📄 test3.csv                          # Test data for train-test split used in article (Cycle 3)
+📄 train25.csv                        # Train data for train-test split used in article (Cycle 25)
+📄 test25.csv                         # Test data for train-test split used in article (Cycle 25)
 📄 poly_coefficients_cycle3.csv       # Exported polynomial regression coefficients (Cycle 3)
 📄 poly_coefficients_cycle25.csv      # Exported polynomial regression coefficients (Cycle 25)
 📄 use_coefficients_example.ipynb     # Notebook demonstrating how to use exported coefficients
