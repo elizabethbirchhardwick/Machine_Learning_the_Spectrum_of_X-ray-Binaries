@@ -40,6 +40,9 @@ We evaluate three machine learning regressors—Polynomial Regression, K-Nearest
 Open the main notebook:
 
 ```bash
+git clone https://github.com/elizabethbirchhardwick/Machine_Learning_the_Spectrum_of_X-ray-Binaries.git
+cd Machine_Learning_the_Spectrum_of_X-ray-Binaries
+pip install -r requirements.txt
 jupyter notebook main.ipynb
 ```
 
@@ -67,10 +70,7 @@ These files allow you to reconstruct predictions for $\log(N_H)$ and $\Gamma$ ma
 
 1. Import new values of **H** and **S** (hard and soft colours).
 2. Use the same polynomial expansion (same degree) as in the notebook.
-3. Apply the formula:
-   $$
-   \text{prediction} = \text{bias} + \sum_{i=1}^n \text{coef}_i \cdot \text{feature}_i
-   $$
+3. Apply the formula $\text{prediction} = \text{bias} + \sum_{i=1}^n \text{coef}_i \cdot \text{feature}_i$
 
 To simplify this process, we also include a helper notebook:
 
@@ -87,7 +87,8 @@ This notebook demonstrates how to load the CSV files and use them to compute pre
 For questions or suggestions, feel free to reach out:
 
 📧 **elizabethbirchhardwick@gmail.com**  
-🚀 Or open an issue on [GitHub](https://github.com/your-username/xray-binaries-ml/issues)
+🚀 Or open an issue on [GitHub](https://github.com/elizabethbirchhardwick/Machine_Learning_the_Spectrum_of_X-ray-Binaries/issues)
+
 
 
 
