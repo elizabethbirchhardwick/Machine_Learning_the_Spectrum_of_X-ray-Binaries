@@ -25,7 +25,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 When using this code, please:  
 - Retain the original license/copyright notice.  
-- Attribute by linking back to this repository (e.g., `[Project Name] by [Your Name]`).  
+- Attribute by linking back to this repository (e.g., `Machine Learning the Spectrum of X-ray Binaries by Elizabeth Birch Hardwick`).  
 
 ---
 
