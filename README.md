@@ -1,6 +1,8 @@
 
 # Machine Learning the Spectrum of X-ray Binaries
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+
 **Predicting $\log(N_H)$ and $\Gamma$ from X-ray Colours using Machine Learning**
 
 ---
@@ -18,10 +20,20 @@ We evaluate three machine learning regressors—Polynomial Regression, K-Nearest
 
 ---
 
+## 📜 License  
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.  
+
+When using this code, please:  
+- Retain the original license/copyright notice.  
+- Attribute by linking back to this repository (e.g., `[Project Name] by [Your Name]`).  
+
+---
+
 ## 📁 Repository structure
 
 ```
 📄 main.ipynb                         # Main Jupyter Notebook
+📄 LICENSE                            # MIT License file
 📄 points_results_cycle3.csv          # Data used to train model (Cycle 3)
 📄 points_results_current_cycle.csv   # Data used to train model (Cycle 25)
 📄 train3.csv                         # Train data for train-test split used in article (Cycle 3)
