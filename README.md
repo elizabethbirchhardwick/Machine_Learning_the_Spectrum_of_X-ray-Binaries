@@ -16,7 +16,7 @@ This repository contains the full code and analysis accompanying the project _Ma
 
 We evaluate three machine learning regressors—Polynomial Regression, K-Nearest Neighbors (KNN), and Random Forest Regression (RFR)—to learn this mapping from colour space to physical parameters.
 
-📝 **You can read the full report [here]([link-to-pdf-or-article-if-hosted](https://drive.google.com/uc?export=download&id=1quIOWuewlGYz3_n06fUjn4UMuMVS_1j9)).**
+📝 **You can read the full report [here]([https://drive.google.com/uc?export=download&id=1quIOWuewlGYz3_n06fUjn4UMuMVS_1j9]).**
 
 ---
 
